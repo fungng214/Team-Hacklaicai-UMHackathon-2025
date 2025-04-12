@@ -1,0 +1,421 @@
+index,keyword,view,menu,checkout,order,keyword_lower,item_id,cuisine_tag,item_name,item_price,merchant_id,item_name_lower
+0,fried spring rolls,37816,11185,3882,153,fried spring rolls,1,Side,Fried Spring Rolls,3.5,1d4f2,fried spring rolls
+9,lumpiang shanghai,8009,2295,1556,101,lumpiang shanghai,264,Side,Lumpiang Shanghai,4.25,f7d1a,lumpiang shanghai
+11,thai spring rolls,38880,15481,9078,796,thai spring rolls,341,Side,Thai Spring Rolls,3.5,7a8e0,thai spring rolls
+38,general tso’s chicken,3291,1271,420,22,general tso’s chicken,3,Asian,General Tso’s Chicken,9.5,1a3f7,general tso’s chicken
+47,kung pao chicken,36107,8796,2298,141,kung pao chicken,199,Asian,Kung Pao Chicken,9.25,1a3f7,kung pao chicken
+56,bacon wrapped dog,44805,14960,6206,469,bacon wrapped dog,4,American,Bacon Wrapped Dog,5.25,d3b6a,bacon wrapped dog
+73,kulfi,47346,18267,6169,559,kulfi,5,Dessert,Kulfi,3.75,a3e8b,kulfi
+90,fried fish sandwich,49558,16399,8751,653,fried fish sandwich,6,Seafood,Fried Fish Sandwich,8.5,b9e5f,fried fish sandwich
+108,garlic naan,11743,4164,1949,150,garlic naan,7,Indian,Garlic Naan,2.5,c5e2a,garlic naan
+143,double patty burger,12661,4301,1485,109,double patty burger,9,Burgers,Double Patty Burger,9.0,2e8a5,double patty burger
+161,mushroom & herb crepe,9200,2009,679,26,mushroom & herb crepe,10,French,Mushroom & Herb Crepe,7.5,e7a2f,mushroom & herb crepe
+180,nutella & banana crepe,16348,4060,2180,147,nutella & banana crepe,11,French,Nutella & Banana Crepe,6.75,0e7a4,nutella & banana crepe
+197,lemonade,12872,4024,2512,90,lemonade,12,Beverage,Lemonade,2.5,6d0f7,lemonade
+217,chili cheese fries,30042,5932,3490,136,chili cheese fries,13,Tex-Mex,Chili Cheese Fries,6.0,6d0f7,chili cheese fries
+234,beef bulgogi rice bowl,7283,2687,938,49,beef bulgogi rice bowl,14,Asian,Beef Bulgogi Rice Bowl,9.5,7f4d2,beef bulgogi rice bowl
+269,beef shawarma plate,33163,7935,3945,155,beef shawarma plate,16,Mediterranean,Beef Shawarma Plate,9.75,1c2e6,beef shawarma plate
+285,classic cheese pizza,22090,7473,3812,335,classic cheese pizza,17,Italian,Classic Cheese Pizza,8.0,7c5b9,classic cheese pizza
+301,spaghetti bolognese,27428,6127,4201,237,spaghetti bolognese,18,Italian,Spaghetti Bolognese,9.5,d4f0a,spaghetti bolognese
+315,classic cheeseburger,19195,6997,2348,206,classic cheeseburger,19,Burgers,Classic Cheeseburger,7.5,2e8a5,classic cheeseburger
+331,pancit palabok,35850,10920,4753,436,pancit palabok,20,Filipino,Pancit Palabok,8.5,8f7c2,pancit palabok
+349,beef striploin bowl,11401,4386,1739,160,beef striploin bowl,21,Steak,Beef Striploin Bowl,10.75,4c9a2,beef striploin bowl
+366,celery & ranch,24776,9185,5095,496,celery & ranch,22,Side,Celery & Ranch,2.0,8d5f9,celery & ranch
+382,grilled chicken caesar salad,36575,7642,2431,124,grilled chicken caesar salad,23,Healthy,Grilled Chicken Caesar Salad,8.5,4d9f1,grilled chicken caesar salad
+398,spicy salmon roll,1475,227,94,6,spicy salmon roll,24,Japanese,Spicy Salmon Roll,7.0,5b8d2,spicy salmon roll
+414,shoyu ramen,25066,5669,2991,138,shoyu ramen,25,Japanese,Shoyu Ramen,9.25,4f0c5,shoyu ramen
+430,unagi nigiri (2 pcs),10075,2118,1302,47,unagi nigiri (2 pcs),26,Japanese,Unagi Nigiri (2 pcs),5.5,a9f4e,unagi nigiri (2 pcs)
+447,spicy tofu stew (soondubu),28371,6403,2847,182,spicy tofu stew (soondubu),27,Korean,Spicy Tofu Stew (Soondubu),9.5,2d7a9,spicy tofu stew (soondubu)
+464,chili dog,5613,1873,687,28,chili dog,28,Tex-Mex,Chili Dog,6.75,6d0f7,chili dog
+477,chili cheese dog,13014,3613,2029,189,chili cheese dog,100,American,Chili Cheese Dog,5.0,a4f0b,chili cheese dog
+480,pho ga (chicken pho),16658,3205,1292,88,pho ga (chicken pho),29,Vietnamese,Pho Ga (Chicken Pho),8.5,1d4f2,pho ga (chicken pho)
+497,avocado cucumber roll,39552,11069,5254,268,avocado cucumber roll,30,Japanese,Avocado Cucumber Roll,6.0,5b8d2,avocado cucumber roll
+513,fries,38403,7548,4455,387,fries,31,Side,Fries,2.5,2e8a5,fries
+532,noodle stir fry with chicken,29068,8423,5034,206,noodle stir fry with chicken,32,Asian,Noodle Stir Fry with Chicken,9.0,b7a3e,noodle stir fry with chicken
+543,pancit canton with chicken,16114,5114,2659,178,pancit canton with chicken,115,Filipino,Pancit Canton with Chicken,8.0,f7d1a,pancit canton with chicken
+549,duck confit,13987,2739,1602,141,duck confit,33,French,Duck Confit,14.75,2f3d7,duck confit
+567,falafel wrap,27051,6143,2709,230,falafel wrap,34,Mediterranean,Falafel Wrap,7.5,d1e9b,falafel wrap
+584,blueberry pancakes,38267,9594,5771,508,blueberry pancakes,35,Breakfast,Blueberry Pancakes,6.75,3c7e9,blueberry pancakes
+600,strawberry frosted donut,35289,8066,3411,220,strawberry frosted donut,36,Dessert,Strawberry Frosted Donut,2.0,3b7f0,strawberry frosted donut
+616,stuffed grape leaves,10885,2321,1118,56,stuffed grape leaves,37,Side,Stuffed Grape Leaves,4.0,6a9c1,stuffed grape leaves
+631,jeera rice,12457,4454,2331,104,jeera rice,38,Indian,Jeera Rice,2.75,b2d8e,jeera rice
+647,grilled asparagus,564,89,22,1,grilled asparagus,39,Side,Grilled Asparagus,4.0,4a3e6,grilled asparagus
+662,garlic butter shrimp,36254,13404,8539,435,garlic butter shrimp,40,Seafood,Garlic Butter Shrimp,12.0,a6c9f,garlic butter shrimp
+677,nutella banana waffle,4866,960,487,34,nutella banana waffle,41,Breakfast,Nutella Banana Waffle,7.5,5d9e3,nutella banana waffle
+693,chicken tikka masala,16301,3304,1431,86,chicken tikka masala,42,Indian,Chicken Tikka Masala,10.5,b2d8e,chicken tikka masala
+693,chicken tikka masala,16301,3304,1431,86,chicken tikka masala,194,Indian,Chicken Tikka Masala,10.5,6a0c3,chicken tikka masala
+709,lamb curry,13767,3315,2073,87,lamb curry,43,Indian,Lamb Curry,11.75,6a0c3,lamb curry
+726,plum soda,46163,14746,4497,383,plum soda,44,Beverage,Plum Soda,2.75,3d9c8,plum soda
+743,ebi tempura roll,21806,7154,2390,181,ebi tempura roll,45,Japanese,Ebi Tempura Roll,7.25,8f2a6,ebi tempura roll
+761,spinach & strawberry salad,45071,13387,4012,193,spinach & strawberry salad,46,Healthy,Spinach & Strawberry Salad,8.25,9f6b0,spinach & strawberry salad
+776,caprese baguette,25664,5064,3195,198,caprese baguette,47,American,Caprese Baguette,7.75,0c6e4,caprese baguette
+791,seared tuna steak,18058,3246,1046,81,seared tuna steak,48,Contemporary,Seared Tuna Steak,14.0,4a3e6,seared tuna steak
+809,bbq ribs full rack,28573,8792,2876,125,bbq ribs full rack,49,BBQ,BBQ Ribs Full Rack,18.0,e8c2b,bbq ribs full rack
+826,chai latte,33010,8649,4889,321,chai latte,50,Beverage,Chai Latte,3.0,8b7a3,chai latte
+845,spicy pork belly bbq,36755,6196,1820,160,spicy pork belly bbq,51,Korean,Spicy Pork Belly BBQ,13.0,c5a8e,spicy pork belly bbq
+862,spicy chicken burrito,1848,675,372,23,spicy chicken burrito,52,Mexican,Spicy Chicken Burrito,8.75,9f4a2,spicy chicken burrito
+877,jasmine tea pot,31464,4886,2806,191,jasmine tea pot,53,Tea,Jasmine Tea Pot,2.5,7d4e1,jasmine tea pot
+894,beef & onion dumplings (8),25226,7437,1865,125,beef & onion dumplings (8),54,Chinese,Beef & Onion Dumplings (8),6.25,b0e7f,beef & onion dumplings (8)
+909,spicy salmon poke,31330,7046,1950,164,spicy salmon poke,55,Hawaiian,Spicy Salmon Poke,10.75,4a7c1,spicy salmon poke
+924,lentil shepherd’s pie,48562,17648,11937,712,lentil shepherd’s pie,56,Vegetarian,Lentil Shepherd’s Pie,9.0,9a8c5,lentil shepherd’s pie
+940,mac & cheese,49899,18913,7899,379,mac & cheese,57,Side,Mac & Cheese,3.5,e8c2b,mac & cheese
+957,bacon mushroom burger,45426,13315,3581,297,bacon mushroom burger,58,Burgers,Bacon Mushroom Burger,8.5,2e8a5,bacon mushroom burger
+971,chicago dog,32565,11817,3511,282,chicago dog,59,American,Chicago Dog,4.5,d3b6a,chicago dog
+986,roasted veggie salad bowl,13122,5073,3342,265,roasted veggie salad bowl,60,Healthy,Roasted Veggie Salad Bowl,8.25,4d9f1,roasted veggie salad bowl
+1002,california roll,49375,11088,6052,455,california roll,61,Japanese,California Roll,6.5,8f2a6,california roll
+1018,barbacoa soft tacos,30254,9744,3457,320,barbacoa soft tacos,62,Mexican,Barbacoa Soft Tacos,7.75,a5c3b,barbacoa soft tacos
+1033,sautéed mushrooms,47721,12757,7589,287,sautéed mushrooms,63,Side,Sautéed Mushrooms,3.25,4c9a2,sautéed mushrooms
+1049,potato wedges,7124,1387,792,57,potato wedges,64,Side,Potato Wedges,3.0,0c2d7,potato wedges
+1064,spicy chicken teriyaki,31619,9174,3560,202,spicy chicken teriyaki,65,Japanese,Spicy Chicken Teriyaki,9.0,3d9c8,spicy chicken teriyaki
+1077,chocolate chip pancakes,44123,16891,11049,801,chocolate chip pancakes,66,Breakfast,Chocolate Chip Pancakes,6.75,3c7e9,chocolate chip pancakes
+1092,vegan black bean burger,40061,6170,3558,226,vegan black bean burger,67,Burgers,Vegan Black Bean Burger,8.0,0c5d8,vegan black bean burger
+1106,garlic parmesan wings (6 pcs),12262,2726,1213,59,garlic parmesan wings (6 pcs),68,American,Garlic Parmesan Wings (6 pcs),7.75,8d5f9,garlic parmesan wings (6 pcs)
+1120,birria quesa tacos,31131,11991,7887,599,birria quesa tacos,69,Mexican,Birria Quesa Tacos,9.25,7d3c1,birria quesa tacos
+1134,grilled chicken shawarma plate,24986,4014,1616,100,grilled chicken shawarma plate,70,Mediterranean,Grilled Chicken Shawarma Plate,9.25,8e9a0,grilled chicken shawarma plate
+1147,vegetable chow mein,34714,5923,1938,118,vegetable chow mein,71,Asian,Vegetable Chow Mein,8.0,1a3f7,vegetable chow mein
+1162,spicy turkey chili,23592,6680,1712,81,spicy turkey chili,72,Tex-Mex,Spicy Turkey Chili,7.0,9d5f2,spicy turkey chili
+1177,beer-battered haddock,40322,14058,5910,285,beer-battered haddock,73,Seafood,Beer-Battered Haddock,11.0,9b4c2,beer-battered haddock
+1192,mini donuts,24173,3773,2212,162,mini donuts,74,Dessert,Mini Donuts,4.0,5c1f8,mini donuts
+1208,truffle burger,45062,13225,6193,486,truffle burger,75,Burgers,Truffle Burger,11.0,4e2d1,truffle burger
+1223,pickled cabbage,21513,8273,2124,98,pickled cabbage,76,Side,Pickled Cabbage,2.0,7f2c1,pickled cabbage
+1240,pineapple fried rice,28441,9191,5736,568,pineapple fried rice,77,Thai,Pineapple Fried Rice,9.25,f1c7a,pineapple fried rice
+1254,green curry with jasmine rice,11710,1766,545,32,green curry with jasmine rice,78,Thai,Green Curry with Jasmine Rice,9.5,7a8e0,green curry with jasmine rice
+1268,rainbow slaw,19076,5347,2148,161,rainbow slaw,79,Side,Rainbow Slaw,3.25,9a8c5,rainbow slaw
+1284,margherita personal pizza,920,202,112,7,margherita personal pizza,80,Italian,Margherita Personal Pizza,7.5,3f7e4,margherita personal pizza
+1294,classic cheese pizza,13869,4889,3019,241,classic cheese pizza,17,Italian,Classic Cheese Pizza,8.0,7c5b9,classic cheese pizza
+1298,fried shrimp dumplings (6),2787,462,245,10,fried shrimp dumplings (6),81,Chinese,Fried Shrimp Dumplings (6),6.5,b0e7f,fried shrimp dumplings (6)
+1313,lamb rogan josh,17374,6362,4226,262,lamb rogan josh,82,Indian,Lamb Rogan Josh,11.0,b9e8c,lamb rogan josh
+1328,butter chicken,28763,4712,1594,77,butter chicken,83,Indian,Butter Chicken,10.25,a3e8b,butter chicken
+1344,smoked salmon bagel,26642,9112,4936,307,smoked salmon bagel,84,Breakfast,Smoked Salmon Bagel,7.0,3e2b6,smoked salmon bagel
+1357,kombucha,47120,9749,4253,244,kombucha,85,Beverage,Kombucha,3.75,5b3d8,kombucha
+1373,falafel & couscous bowl,28957,9115,4771,255,falafel & couscous bowl,86,Mediterranean,Falafel & Couscous Bowl,8.75,1f5b7,falafel & couscous bowl
+1387,sangria (non-alcoholic),28230,4588,2189,145,sangria (non-alcoholic),87,Beverage,Sangria (non-alcoholic),3.5,2a3e9,sangria (non-alcoholic)
+1402,coconut water,3511,669,198,15,coconut water,88,Beverage,Coconut Water,3.5,3b1c6,coconut water
+1419,classic french toast,7304,1802,699,45,classic french toast,89,Breakfast,Classic French Toast,6.5,6f1c4,classic french toast
+1434,cherry pie,40976,13234,3653,146,cherry pie,90,Dessert,Cherry Pie,4.75,9c8e2,cherry pie
+1449,cheesy breadsticks,15537,2542,1030,40,cheesy breadsticks,91,Side,Cheesy Breadsticks,4.0,3f7e4,cheesy breadsticks
+1464,tempura udon,49269,17324,6894,647,tempura udon,92,Japanese,Tempura Udon,8.25,5b8d2,tempura udon
+1479,house special pho,27580,8358,5067,444,house special pho,93,Vietnamese,House Special Pho,9.75,c8d3e,house special pho
+1495,pancit sotanghon,49917,18254,9052,680,pancit sotanghon,94,Filipino,Pancit Sotanghon,8.25,8f7c2,pancit sotanghon
+1510,spicy miso ramen,30248,9770,4916,353,spicy miso ramen,95,Japanese,Spicy Miso Ramen,9.75,4f0c5,spicy miso ramen
+1525,gourmet grilled cheese,34136,6978,2455,175,gourmet grilled cheese,96,Contemporary,Gourmet Grilled Cheese,8.0,b0a4f,gourmet grilled cheese
+1538,breakfast burrito,2293,388,179,17,breakfast burrito,97,Mexican,Breakfast Burrito,7.5,9f4a2,breakfast burrito
+1552,classic bagel with cream cheese,19944,4240,1657,133,classic bagel with cream cheese,98,Breakfast,Classic Bagel with Cream Cheese,4.5,3e2b6,classic bagel with cream cheese
+1567,salmon teriyaki,43295,15538,10123,980,salmon teriyaki,99,Japanese,Salmon Teriyaki,10.0,3d9c8,salmon teriyaki
+1581,chili cheese dog,10929,2902,1179,105,chili cheese dog,100,American,Chili Cheese Dog,5.0,a4f0b,chili cheese dog
+1583,chili dog,4146,1457,621,45,chili dog,28,Tex-Mex,Chili Dog,6.75,6d0f7,chili dog
+1594,classic fish & chips,13876,3626,1901,130,classic fish & chips,101,Seafood,Classic Fish & Chips,10.0,5f1d3,classic fish & chips
+1594,classic fish & chips,13876,3626,1901,130,classic fish & chips,147,Seafood,Classic Fish & Chips,10.5,9b4c2,classic fish & chips
+1609,spicy jalapeno burger,6283,2357,947,39,spicy jalapeno burger,102,Burgers,Spicy Jalapeno Burger,9.0,4e2d1,spicy jalapeno burger
+1624,spicy tuna roll,30213,9355,5833,431,spicy tuna roll,103,Japanese,Spicy Tuna Roll,7.5,b3e8f,spicy tuna roll
+1639,superfood power bowl,27133,7133,2244,216,superfood power bowl,104,Healthy,Superfood Power Bowl,9.75,9f6b0,superfood power bowl
+1654,pho bo (beef noodle soup),47272,7699,5342,266,pho bo (beef noodle soup),105,Vietnamese,Pho Bo (Beef Noodle Soup),9.0,1d4f2,pho bo (beef noodle soup)
+1669,volcano roll,43989,8717,2394,87,volcano roll,106,Japanese,Volcano Roll,8.75,a9f4e,volcano roll
+1684,guacamole & chips,5529,2022,978,62,guacamole & chips,107,Side,Guacamole & Chips,3.5,9f4a2,guacamole & chips
+1698,vegetable biryani,36020,11463,7080,328,vegetable biryani,108,Indian,Vegetable Biryani,8.75,a3e8b,vegetable biryani
+1712,pancit malabon,48618,16202,7328,280,pancit malabon,109,Filipino,Pancit Malabon,9.0,f7d1a,pancit malabon
+1726,guacamole,44041,9652,4038,339,guacamole,110,Side,Guacamole,2.5,a5c3b,guacamole
+1741,vanilla custard donut,23110,4610,1280,56,vanilla custard donut,111,Dessert,Vanilla Custard Donut,2.5,3b7f0,vanilla custard donut
+1755,soy braised beef noodles,35510,10605,3786,198,soy braised beef noodles,112,Asian,Soy Braised Beef Noodles,9.75,9b5a0,soy braised beef noodles
+1768,pork siu mai,37336,12002,6074,254,pork siu mai,113,Chinese,Pork Siu Mai,5.0,0e1f9,pork siu mai
+1782,mango pudding,43883,12512,6149,378,mango pudding,114,Dessert,Mango Pudding,3.5,0e1f9,mango pudding
+1796,pancit canton with chicken,18034,3391,1037,91,pancit canton with chicken,115,Filipino,Pancit Canton with Chicken,8.0,f7d1a,pancit canton with chicken
+1809,bagel with peanut butter & banana,7278,2183,857,85,bagel with peanut butter & banana,116,Breakfast,Bagel with Peanut Butter & Banana,4.75,2b5d7,bagel with peanut butter & banana
+1821,cookies & cream donut,37874,6158,1674,91,cookies & cream donut,117,Dessert,Cookies & Cream Donut,2.75,3b7f0,cookies & cream donut
+1834,truffle mac & cheese,41524,13858,7621,443,truffle mac & cheese,118,Contemporary,Truffle Mac & Cheese,9.5,b0a4f,truffle mac & cheese
+1846,banana nut french toast,9778,3546,1271,71,banana nut french toast,119,Breakfast,Banana Nut French Toast,7.75,6f1c4,banana nut french toast
+1857,garlic bread,2230,398,171,13,garlic bread,120,Side,Garlic Bread,3.0,d4f0a,garlic bread
+1870,grilled salmon fillet,33068,5595,2255,132,grilled salmon fillet,121,Seafood,Grilled Salmon Fillet,13.0,a6c9f,grilled salmon fillet
+1884,turnip cake,1446,311,208,14,turnip cake,122,Chinese,Turnip Cake,4.25,7d4e1,turnip cake
+1898,cornbread,45558,12924,4466,185,cornbread,123,Side,Cornbread,2.5,7c1a9,cornbread
+1912,taco salad bowl,14275,4047,2715,207,taco salad bowl,124,Mexican,Taco Salad Bowl,8.25,7d3c1,taco salad bowl
+1926,miso soup,21892,4935,2191,109,miso soup,125,Side,Miso Soup,2.5,b3e8f,miso soup
+1926,miso soup,21892,4935,2191,109,miso soup,370,Side,Miso Soup,2.25,7f4d2,miso soup
+1939,coq au vin,46374,7061,4818,212,coq au vin,126,French,Coq au Vin,13.5,2f3d7,coq au vin
+1951,ham & cheese bagel melt,8116,2751,1861,70,ham & cheese bagel melt,127,Breakfast,Ham & Cheese Bagel Melt,5.5,2b5d7,ham & cheese bagel melt
+1963,house salad,49503,11250,2933,209,house salad,128,Side,House Salad,3.75,6f5a0,house salad
+1976,tartar sauce,11270,3761,2432,153,tartar sauce,129,Side,Tartar Sauce,0.75,9b4c2,tartar sauce
+1990,dragon roll,26110,5525,1701,113,dragon roll,130,Japanese,Dragon Roll,9.25,b3e8f,dragon roll
+2004,fried chicken wings (yangnyeom),26126,5367,1519,134,fried chicken wings (yangnyeom),131,Korean,Fried Chicken Wings (Yangnyeom),8.75,2d7a9,fried chicken wings (yangnyeom)
+2018,pumpkin pie,20226,5877,2871,185,pumpkin pie,132,Dessert,Pumpkin Pie,5.0,8b7a3,pumpkin pie
+2032,tofu veggie rice bowl,8197,2504,747,27,tofu veggie rice bowl,133,Asian,Tofu Veggie Rice Bowl,8.25,7f4d2,tofu veggie rice bowl
+2046,chana masala,10226,1766,520,47,chana masala,134,Indian,Chana Masala,8.25,b2d8e,chana masala
+2060,vegetarian ramen,35840,7618,2081,195,vegetarian ramen,135,Japanese,Vegetarian Ramen,8.75,2f7b5,vegetarian ramen
+2073,classic beef hot dog,43100,8118,3628,183,classic beef hot dog,136,American,Classic Beef Hot Dog,4.0,a4f0b,classic beef hot dog
+2086,onion rings,35650,8976,4189,352,onion rings,137,Side,Onion Rings,3.25,0c5d8,onion rings
+2100,shrimp har gow,2791,816,556,51,shrimp har gow,138,Chinese,Shrimp Har Gow,5.5,0e1f9,shrimp har gow
+2113,shrimp pho,26799,4415,1265,99,shrimp pho,139,Vietnamese,Shrimp Pho,10.0,c8d3e,shrimp pho
+2126,veggie shawarma bowl,19035,5303,2765,250,veggie shawarma bowl,140,Mediterranean,Veggie Shawarma Bowl,8.25,1c2e6,veggie shawarma bowl
+2139,vegetarian red curry,38542,7177,2318,185,vegetarian red curry,141,Thai,Vegetarian Red Curry,8.75,7a8e0,vegetarian red curry
+2152,latte,33168,7620,3659,151,latte,142,Beverage,Latte,3.0,0e7a4,latte
+2168,grilled corn on the cob,18714,7402,2849,212,grilled corn on the cob,143,BBQ,Grilled Corn on the Cob,3.0,e8c2b,grilled corn on the cob
+2182,mashed potatoes with gravy,38561,8534,5752,474,mashed potatoes with gravy,144,Side,Mashed Potatoes with Gravy,3.25,0e1b3,mashed potatoes with gravy
+2194,pickled ginger,4439,1079,655,62,pickled ginger,145,Side,Pickled Ginger,1.5,a9f4e,pickled ginger
+2209,paratha,27229,7490,4142,197,paratha,146,Side,Paratha,2.5,2a9c5,paratha
+2224,classic fish & chips,9688,2357,624,21,classic fish & chips,101,Seafood,Classic Fish & Chips,10.0,5f1d3,classic fish & chips
+2224,classic fish & chips,9688,2357,624,21,classic fish & chips,147,Seafood,Classic Fish & Chips,10.5,9b4c2,classic fish & chips
+2236,four cheese pizza,37104,13078,5475,425,four cheese pizza,148,Italian,Four Cheese Pizza,9.75,4b1d7,four cheese pizza
+2248,maple bacon donut,18424,5297,3643,131,maple bacon donut,149,Dessert,Maple Bacon Donut,2.75,e9a1c,maple bacon donut
+2260,strawberries & cream waffle,5973,1446,933,92,strawberries & cream waffle,150,Breakfast,Strawberries & Cream Waffle,7.25,e3b2d,strawberries & cream waffle
+2272,baklava,38519,14255,8495,785,baklava,151,Dessert,Baklava,3.5,8e9a0,baklava
+2285,hot chocolate,37754,10445,5267,402,hot chocolate,152,Beverage,Hot Chocolate,2.75,3b7f0,hot chocolate
+2300,everything bagel,8831,3511,1636,73,everything bagel,153,Breakfast,Everything Bagel,3.5,2b5d7,everything bagel
+2312,lamb shawarma wrap,39122,13377,7030,521,lamb shawarma wrap,154,Mediterranean,Lamb Shawarma Wrap,9.25,1a5f4,lamb shawarma wrap
+2324,rasgulla,34332,8170,4286,422,rasgulla,155,Dessert,Rasgulla,3.25,b2d8e,rasgulla
+2337,kimchi,48070,8520,2660,187,kimchi,156,Side,Kimchi,2.0,c5a8e,kimchi
+2350,pulled pork sandwich,47245,18175,7564,577,pulled pork sandwich,157,BBQ,Pulled Pork Sandwich,9.0,2a1c4,pulled pork sandwich
+2361,chicken shawarma wrap,11779,3612,1307,52,chicken shawarma wrap,158,Mediterranean,Chicken Shawarma Wrap,8.5,1c2e6,chicken shawarma wrap
+2372,beef kabob platter,7477,2356,1617,111,beef kabob platter,159,Mediterranean,Beef Kabob Platter,11.5,1f5b7,beef kabob platter
+2384,southwest chicken salad,13225,4260,2713,113,southwest chicken salad,160,Healthy,Southwest Chicken Salad,8.75,6d8e2,southwest chicken salad
+2396,smoked sausage platter,35640,8681,4698,244,smoked sausage platter,161,BBQ,Smoked Sausage Platter,11.0,e8c2b,smoked sausage platter
+2409,boneless wings combo,41517,8551,3590,329,boneless wings combo,162,American,Boneless Wings Combo,8.25,6c3f2,boneless wings combo
+2421,thai iced tea,47393,15692,9712,527,thai iced tea,163,Beverage,Thai Iced Tea,3.25,f1c7a,thai iced tea
+2434,detox green juice,38188,12298,3168,186,detox green juice,164,Beverage,Detox Green Juice,4.0,6d8e2,detox green juice
+2446,whipped cream scoop,19203,3097,1423,114,whipped cream scoop,165,Side,Whipped Cream Scoop,1.25,9c8e2,whipped cream scoop
+2459,red bean sesame balls,2745,1013,427,30,red bean sesame balls,166,Dessert,Red Bean Sesame Balls,3.25,b0e7f,red bean sesame balls
+2471,spring rolls (2 pcs),46520,17861,10590,564,spring rolls (2 pcs),167,Side,Spring Rolls (2 pcs),3.25,b7a3e,spring rolls (2 pcs)
+2483,spicy bbq wings (6 pcs),34162,11583,7352,666,spicy bbq wings (6 pcs),168,American,Spicy BBQ Wings (6 pcs),7.5,6c3f2,spicy bbq wings (6 pcs)
+2494,crinkle cut fries,19457,6038,2653,231,crinkle cut fries,169,Side,Crinkle Cut Fries,2.75,a4f0b,crinkle cut fries
+2507,baked beans,35391,12235,8284,706,baked beans,178,Side,Baked Beans,2.75,f8a3d,baked beans
+2520,berry almond salad,9118,1911,1127,107,berry almond salad,170,Healthy,Berry Almond Salad,9.25,6d8e2,berry almond salad
+2533,brisket pho,38199,10704,4121,150,brisket pho,177,Vietnamese,Brisket Pho,9.25,c8d3e,brisket pho
+2545,bulgogi beef platter,46568,16137,6229,572,bulgogi beef platter,175,Korean,Bulgogi Beef Platter,12.5,c5a8e,bulgogi beef platter
+2558,carnitas tacos,47115,7956,4452,255,carnitas tacos,173,Mexican,Carnitas Tacos,7.5,f3b8d,carnitas tacos
+2570,chicken teriyaki poke bowl,34038,9221,4323,333,chicken teriyaki poke bowl,171,Hawaiian,Chicken Teriyaki Poke Bowl,9.5,4a7c1,chicken teriyaki poke bowl
+2582,chirashi don,3405,1088,652,49,chirashi don,172,Japanese,Chirashi Don,12.0,a9f4e,chirashi don
+2595,key lime pie,11214,3300,1443,60,key lime pie,180,Dessert,Key Lime Pie,5.0,9c8e2,key lime pie
+2607,lentil & beetroot salad,24053,4025,1216,66,lentil & beetroot salad,176,Healthy,Lentil & Beetroot Salad,8.5,6d8e2,lentil & beetroot salad
+2619,roast beef & cheddar sandwich,7758,2178,1462,79,roast beef & cheddar sandwich,179,American,Roast Beef & Cheddar Sandwich,8.25,8a2c6,roast beef & cheddar sandwich
+2629,savory bacon & egg waffle,32415,10218,3085,176,savory bacon & egg waffle,174,Breakfast,Savory Bacon & Egg Waffle,8.25,5d9e3,savory bacon & egg waffle
+2640,baked beans,18637,6448,2954,152,baked beans,178,Side,Baked Beans,2.75,f8a3d,baked beans
+2653,brisket pho,3987,1388,359,34,brisket pho,177,Vietnamese,Brisket Pho,9.25,c8d3e,brisket pho
+2665,key lime pie,17187,5947,3509,320,key lime pie,180,Dessert,Key Lime Pie,5.0,9c8e2,key lime pie
+2677,lentil & beetroot salad,25187,7428,3046,256,lentil & beetroot salad,176,Healthy,Lentil & Beetroot Salad,8.5,6d8e2,lentil & beetroot salad
+2689,roast beef & cheddar sandwich,48614,7803,5295,372,roast beef & cheddar sandwich,179,American,Roast Beef & Cheddar Sandwich,8.25,8a2c6,roast beef & cheddar sandwich
+2699,bbq tempeh salad,24419,7787,3341,260,bbq tempeh salad,188,Healthy,BBQ Tempeh Salad,8.75,9f6b0,bbq tempeh salad
+2711,chicken dumplings (8),39689,13016,4625,185,chicken dumplings (8),190,Chinese,Chicken Dumplings (8),6.0,b0e7f,chicken dumplings (8)
+2723,classic belgian waffle,29244,4517,1255,94,classic belgian waffle,186,Breakfast,Classic Belgian Waffle,6.5,e3b2d,classic belgian waffle
+2735,crepe ice cream roll,10828,1935,605,57,crepe ice cream roll,184,Dessert,Crepe Ice Cream Roll,5.5,e7a2f,crepe ice cream roll
+2747,honey mustard dressing,41278,14358,8240,540,honey mustard dressing,182,Dressing,Honey Mustard Dressing,0.75,4d9f1,honey mustard dressing
+2758,lemon iced tea,45007,17926,7825,645,lemon iced tea,181,Beverage,Lemon Iced Tea,2.75,5f1d3,lemon iced tea
+2771,nachos with salsa,19847,4551,2781,207,nachos with salsa,183,Side,Nachos with Salsa,4.0,b4a8f,nachos with salsa
+2784,potato chips,3177,1087,459,31,potato chips,189,Side,Potato Chips,2.0,0c6e4,potato chips
+2796,spicy pork rice bowl,13060,3677,1117,97,spicy pork rice bowl,187,Asian,Spicy Pork Rice Bowl,9.25,d6e4a,spicy pork rice bowl
+2807,steak burrito,23640,5669,2062,189,steak burrito,185,Mexican,Steak Burrito,9.0,9f4a2,steak burrito
+2819,al pastor tacos,13387,4113,2394,163,al pastor tacos,211,Mexican,Al Pastor Tacos,7.75,7d3c1,al pastor tacos
+2828,gambas al ajillo (garlic shrimp),12054,2591,703,52,gambas al ajillo (garlic shrimp),213,Spanish,Gambas al Ajillo (Garlic Shrimp),7.5,2a3e9,gambas al ajillo (garlic shrimp)
+2837,garlic mashed potatoes,11240,3723,1756,87,garlic mashed potatoes,206,Side,Garlic Mashed Potatoes,4.0,a1b5e,garlic mashed potatoes
+2845,mango chutney,49022,18199,11972,1089,mango chutney,207,Side,Mango Chutney,1.75,b9e8c,mango chutney
+2853,pancit bihon with shrimp,40179,11448,5388,265,pancit bihon with shrimp,209,Filipino,Pancit Bihon with Shrimp,8.5,f7d1a,pancit bihon with shrimp
+2862,pepperoni pizza slice,48849,17101,6308,375,pepperoni pizza slice,215,Italian,Pepperoni Pizza Slice,3.0,3f7e4,pepperoni pizza slice
+2870,root beer float,18868,6429,4193,186,root beer float,212,Beverage,Root Beer Float,3.5,d3b6a,root beer float
+2878,spicy shrimp tacos,41914,7752,4295,299,spicy shrimp tacos,208,Mexican,Spicy Shrimp Tacos,8.0,f3b8d,spicy shrimp tacos
+2887,vegetable korma,20834,4271,1792,163,vegetable korma,214,Indian,Vegetable Korma,8.75,b9e8c,vegetable korma
+2896,vietnamese pho with beef,38785,14906,5971,414,vietnamese pho with beef,210,Asian,Vietnamese Pho with Beef,10.0,d4f7a,vietnamese pho with beef
+2905,strawberry protein smoothie,16038,5841,3878,360,strawberry protein smoothie,221,Beverage,Strawberry Protein Smoothie,6.5,5e7b2,strawberry protein smoothie
+2914,spicy wontons in chili oil,30179,7116,3400,116,spicy wontons in chili oil,217,Chinese,Spicy Wontons in Chili Oil,6.25,7f2c1,spicy wontons in chili oil
+2923,seasoned curly fries,4590,958,336,17,seasoned curly fries,218,Side,Seasoned Curly Fries,3.5,b9e5f,seasoned curly fries
+2932,greek salad with feta,41222,6212,3802,286,greek salad with feta,219,Healthy,Greek Salad with Feta,8.5,3b1c6,greek salad with feta
+2941,granola yogurt parfait,32345,8345,3987,231,granola yogurt parfait,223,Snack,Granola Yogurt Parfait,4.25,c9f0b,granola yogurt parfait
+2950,freshly brewed coffee,23743,7552,2889,257,freshly brewed coffee,222,Beverage,Freshly Brewed Coffee,2.5,3e2b6,freshly brewed coffee
+2959,chicken karaage ramen,45411,15131,9116,450,chicken karaage ramen,220,Japanese,Chicken Karaage Ramen,9.75,2f7b5,chicken karaage ramen
+2968,cappuccino,6690,1427,596,44,cappuccino,216,Beverage,Cappuccino,3.25,6f1c4,cappuccino
+2976,beef ramen bowl,5959,1469,691,32,beef ramen bowl,224,Asian,Beef Ramen Bowl,9.75,b7a3e,beef ramen bowl
+2985,baba ghanoush with pita,43948,14249,7820,326,baba ghanoush with pita,225,Mediterranean,Baba Ghanoush with Pita,6.0,6a9c1,baba ghanoush with pita
+2995,tuna melt,914,185,106,4,tuna melt,229,American,Tuna Melt,7.25,0c6e4,tuna melt
+3003,thai fish cakes,49431,9852,3301,268,thai fish cakes,228,Side,Thai Fish Cakes,4.0,d4f7a,thai fish cakes
+3012,seaweed salad,25183,9913,2614,196,seaweed salad,227,Side,Seaweed Salad,3.0,8f2a6,seaweed salad
+3012,seaweed salad,25183,9913,2614,196,seaweed salad,244,Side,Seaweed Salad,3.25,f9e4c,seaweed salad
+3012,seaweed salad,25183,9913,2614,196,seaweed salad,376,Side,Seaweed Salad,3.0,2d7a9,seaweed salad
+3020,seafood paella,18044,6826,3883,270,seafood paella,231,Seafood,Seafood Paella,14.5,a6c9f,seafood paella
+3028,pad thai with chicken,36823,12859,8103,801,pad thai with chicken,230,Thai,Pad Thai with Chicken,9.0,7a8e0,pad thai with chicken
+3036,olive mix,12425,3347,905,54,olive mix,233,Side,Olive Mix,2.25,5e0b4,olive mix
+3045,new york style dog,35747,10926,4752,211,new york style dog,234,American,New York Style Dog,4.25,d3b6a,new york style dog
+3053,grilled veggie panini,2098,430,293,23,grilled veggie panini,232,American,Grilled Veggie Panini,7.75,8a2c6,grilled veggie panini
+3061,chorizo & egg breakfast taco,20629,7740,5359,513,chorizo & egg breakfast taco,226,Mexican,Chorizo & Egg Breakfast Taco,6.5,a5c3b,chorizo & egg breakfast taco
+3070,buttermilk pancakes,38165,11757,7065,500,buttermilk pancakes,235,Breakfast,Buttermilk Pancakes,6.0,3c7e9,buttermilk pancakes
+3078,4-piece chicken meal,23073,7542,3002,290,4-piece chicken meal,242,Fried Chicken,4-Piece Chicken Meal,9.5,0c2d7,4-piece chicken meal
+3086,avocado kale salad,45879,9943,5199,314,avocado kale salad,245,Healthy,Avocado Kale Salad,9.25,3b1c6,avocado kale salad
+3095,classic buffalo wings (6 pcs),29751,11665,3682,213,classic buffalo wings (6 pcs),238,American,Classic Buffalo Wings (6 pcs),7.5,8d5f9,classic buffalo wings (6 pcs)
+3104,filet mignon,23144,6538,3511,262,filet mignon,241,Steak,Filet Mignon,18.75,a1b5e,filet mignon
+3113,green tea,43662,12471,8012,494,green tea,243,Beverage,Green Tea,2.0,5b8d2,green tea
+3122,pork & chive dumplings (6),37988,12630,4014,268,pork & chive dumplings (6),240,Chinese,Pork & Chive Dumplings (6),5.5,7f2c1,pork & chive dumplings (6)
+3130,seafood laksa noodles,22017,8051,2229,83,seafood laksa noodles,236,Asian,Seafood Laksa Noodles,10.25,9b5a0,seafood laksa noodles
+3138,seaweed salad,44834,17197,10523,675,seaweed salad,227,Side,Seaweed Salad,3.0,8f2a6,seaweed salad
+3138,seaweed salad,44834,17197,10523,675,seaweed salad,244,Side,Seaweed Salad,3.25,f9e4c,seaweed salad
+3138,seaweed salad,44834,17197,10523,675,seaweed salad,376,Side,Seaweed Salad,3.0,2d7a9,seaweed salad
+3146,sesame tofu bowl,30296,8863,3561,169,sesame tofu bowl,237,Asian,Sesame Tofu Bowl,8.5,d6e4a,sesame tofu bowl
+3154,shawarma fries,21940,8049,2158,132,shawarma fries,239,Mediterranean,Shawarma Fries,7.5,1a5f4,shawarma fries
+3162,tofu poke bowl,35706,12711,6755,571,tofu poke bowl,246,Hawaiian,Tofu Poke Bowl,9.25,f9e4c,tofu poke bowl
+3170,sparkling water,29947,6893,3947,289,sparkling water,255,Beverage,Sparkling Water,2.5,7c5b9,sparkling water
+3178,smoked turkey leg,30502,4886,2867,236,smoked turkey leg,254,BBQ,Smoked Turkey Leg,10.0,f8a3d,smoked turkey leg
+3186,paneer tikka masala,7434,1313,690,38,paneer tikka masala,247,Indian,Paneer Tikka Masala,9.0,c5e2a,paneer tikka masala
+3194,horchata,9454,2973,1388,72,horchata,249,Beverage,Horchata,2.75,f3b8d,horchata
+3202,gyoza (5 pcs),33793,9925,4488,308,gyoza (5 pcs),252,Side,Gyoza (5 pcs),4.0,4f0c5,gyoza (5 pcs)
+3210,grilled chicken rice bowl,39105,9157,4984,370,grilled chicken rice bowl,250,Asian,Grilled Chicken Rice Bowl,8.75,7f4d2,grilled chicken rice bowl
+3218,garlic sauce,17170,5149,2444,168,garlic sauce,251,Side,Garlic Sauce,1.0,1c2e6,garlic sauce
+3226,basmati rice,48282,12120,4924,220,basmati rice,248,Side,Basmati Rice,2.5,6a0c3,basmati rice
+3234,acai bowl,14844,4730,2938,206,acai bowl,253,Snack,Acai Bowl,7.0,5e7b2,acai bowl
+3242,tofu poke bowl,39881,6097,3404,193,tofu poke bowl,246,Hawaiian,Tofu Poke Bowl,9.25,f9e4c,tofu poke bowl
+3250,sparkling water,27321,5129,3385,279,sparkling water,255,Beverage,Sparkling Water,2.5,7c5b9,sparkling water
+3258,smoked turkey leg,21226,3880,2435,142,smoked turkey leg,254,BBQ,Smoked Turkey Leg,10.0,f8a3d,smoked turkey leg
+3266,paneer tikka masala,17186,3738,2534,130,paneer tikka masala,247,Indian,Paneer Tikka Masala,9.0,c5e2a,paneer tikka masala
+3274,horchata,8316,2369,846,71,horchata,249,Beverage,Horchata,2.75,f3b8d,horchata
+3282,gyoza (5 pcs),45768,8627,4583,262,gyoza (5 pcs),252,Side,Gyoza (5 pcs),4.0,4f0c5,gyoza (5 pcs)
+3290,grilled chicken rice bowl,33479,7898,3569,151,grilled chicken rice bowl,250,Asian,Grilled Chicken Rice Bowl,8.75,7f4d2,grilled chicken rice bowl
+3297,garlic sauce,28505,5964,3460,230,garlic sauce,251,Side,Garlic Sauce,1.0,1c2e6,garlic sauce
+3305,basmati rice,1053,209,89,6,basmati rice,248,Side,Basmati Rice,2.5,6a0c3,basmati rice
+3313,acai bowl,48086,18484,7075,317,acai bowl,253,Snack,Acai Bowl,7.0,5e7b2,acai bowl
+3321,massaman curry,4178,799,277,27,massaman curry,256,Thai,Massaman Curry,10.0,f1c7a,massaman curry
+3329,supreme pizza,35268,11290,2990,208,supreme pizza,257,Italian,Supreme Pizza,10.5,4b1d7,supreme pizza
+3337,mixed grill platter,35583,9507,5848,445,mixed grill platter,258,Mediterranean,Mixed Grill Platter,11.5,1a5f4,mixed grill platter
+3345,fresh orange juice,35362,12448,6841,595,fresh orange juice,259,Beverage,Fresh Orange Juice,3.0,3c7e9,fresh orange juice
+3347,orange juice,28418,10909,2972,138,orange juice,305,Beverage,Orange Juice,3.0,2b5d7,orange juice
+3353,grilled lamb chops,34845,6471,3442,211,grilled lamb chops,260,Contemporary,Grilled Lamb Chops,15.0,4a3e6,grilled lamb chops
+3361,thai pad see ew,774,176,69,5,thai pad see ew,261,Asian,Thai Pad See Ew,9.5,d4f7a,thai pad see ew
+3369,edamame with sea salt,6913,2162,1057,75,edamame with sea salt,262,Side,Edamame with Sea Salt,3.0,4a7c1,edamame with sea salt
+3377,blue cheese burger,40066,8243,4721,436,blue cheese burger,263,Burgers,Blue Cheese Burger,8.75,0c5d8,blue cheese burger
+3385,lumpiang shanghai,24859,8029,3989,197,lumpiang shanghai,264,Side,Lumpiang Shanghai,4.25,f7d1a,lumpiang shanghai
+3393,egg & cheese bagel,10655,2049,1403,122,egg & cheese bagel,265,Breakfast,Egg & Cheese Bagel,5.0,3e2b6,egg & cheese bagel
+3401,goan prawn curry,23125,8740,2823,202,goan prawn curry,266,Indian,Goan Prawn Curry,12.0,a3e8b,goan prawn curry
+3409,turkey club sandwich,28204,6213,4006,319,turkey club sandwich,267,American,Turkey Club Sandwich,7.5,0c6e4,turkey club sandwich
+3416,portobello mushroom burger,22468,4503,1462,81,portobello mushroom burger,268,Contemporary,Portobello Mushroom Burger,9.25,b0a4f,portobello mushroom burger
+3423,mini waffle sundae,32917,7293,4328,302,mini waffle sundae,269,Dessert,Mini Waffle Sundae,5.5,5d9e3,mini waffle sundae
+3431,butter chicken with rice,41238,7799,4249,161,butter chicken with rice,270,Indian,Butter Chicken with Rice,10.0,c5e2a,butter chicken with rice
+3432,butter chicken,27981,6383,3965,219,butter chicken,83,Indian,Butter Chicken,10.25,a3e8b,butter chicken
+3438,blueberry oat smoothie,43729,9226,5872,451,blueberry oat smoothie,271,Beverage,Blueberry Oat Smoothie,6.0,c9f0b,blueberry oat smoothie
+3445,chicken & waffles,5353,1268,761,68,chicken & waffles,204,Breakfast,Chicken & Waffles,9.0,e3b2d,chicken & waffles
+3445,chicken & waffles,5353,1268,761,68,chicken & waffles,272,Fried Chicken,Chicken & Waffles,10.0,0c2d7,chicken & waffles
+3452,factory special burger,34724,11072,4415,370,factory special burger,273,Burgers,Factory Special Burger,10.0,5c1f8,factory special burger
+3460,hummus & pita,44285,10920,6266,480,hummus & pita,274,Mediterranean,Hummus & Pita,5.0,8e9a0,hummus & pita
+3468,tabbouleh salad,41630,6871,3055,257,tabbouleh salad,275,Side,Tabbouleh Salad,3.75,d1e9b,tabbouleh salad
+3476,falafel bowl with hummus,36371,6621,4573,368,falafel bowl with hummus,276,Mediterranean,Falafel Bowl with Hummus,8.0,d1e9b,falafel bowl with hummus
+3484,bbq short ribs (galbi),46104,12016,5049,256,bbq short ribs (galbi),277,Korean,BBQ Short Ribs (Galbi),14.75,c5a8e,bbq short ribs (galbi)
+3492,berry compote french toast,44280,16729,10314,494,berry compote french toast,278,Breakfast,Berry Compote French Toast,7.25,6f1c4,berry compote french toast
+3500,salmon nigiri (5 pcs),36159,7580,3121,299,salmon nigiri (5 pcs),279,Japanese,Salmon Nigiri (5 pcs),8.0,b3e8f,salmon nigiri (5 pcs)
+3508,spicy garlic udon,46878,10524,4152,166,spicy garlic udon,280,Asian,Spicy Garlic Udon,8.5,b7a3e,spicy garlic udon
+3516,crab cake burger,678,163,96,4,crab cake burger,281,Seafood,Crab Cake Burger,10.75,b9e5f,crab cake burger
+3524,malai kofta,1565,573,210,11,malai kofta,282,Indian,Malai Kofta,9.25,2a9c5,malai kofta
+3532,pecan pie slice,29813,10773,7498,467,pecan pie slice,283,Dessert,Pecan Pie Slice,5.25,9c8e2,pecan pie slice
+3540,steamed vegetables,16395,2555,994,53,steamed vegetables,284,Side,Steamed Vegetables,3.0,7e2d8,steamed vegetables
+3548,grilled ribeye steak,16231,3051,1489,91,grilled ribeye steak,285,Steak,Grilled Ribeye Steak,16.5,a1b5e,grilled ribeye steak
+3556,spicy chicken tenders,6773,2262,571,56,spicy chicken tenders,286,Fried Chicken,Spicy Chicken Tenders,8.0,0c2d7,spicy chicken tenders
+3564,zucchini noodle salad,26078,7786,2652,131,zucchini noodle salad,287,Vegetarian,Zucchini Noodle Salad,7.75,9a8c5,zucchini noodle salad
+3572,chicken feet in black bean sauce,31655,8858,3999,343,chicken feet in black bean sauce,288,Chinese,Chicken Feet in Black Bean Sauce,5.25,7d4e1,chicken feet in black bean sauce
+3580,lebanese pickles,16111,5359,2451,111,lebanese pickles,289,Side,Lebanese Pickles,2.25,1f5b7,lebanese pickles
+3588,vietnamese iced coffee,5887,1459,684,62,vietnamese iced coffee,290,Beverage,Vietnamese Iced Coffee,3.25,c8d3e,vietnamese iced coffee
+3596,texas toast pulled pork,2966,777,480,24,texas toast pulled pork,291,BBQ,Texas Toast Pulled Pork,9.5,f8a3d,texas toast pulled pork
+3604,crunchy taco combo,47162,18209,5730,435,crunchy taco combo,292,Mexican,Crunchy Taco Combo,6.75,a5c3b,crunchy taco combo
+3612,grilled cod with lemon butter,9728,1966,726,27,grilled cod with lemon butter,293,Seafood,Grilled Cod with Lemon Butter,12.0,9b4c2,grilled cod with lemon butter
+3620,gulab jamun,15387,5362,3044,239,gulab jamun,294,Dessert,Gulab Jamun,3.0,c5e2a,gulab jamun
+3628,blueberry pie,25925,4838,1518,73,blueberry pie,295,Dessert,Blueberry Pie,4.75,8b7a3,blueberry pie
+3636,lotus leaf sticky rice,20625,3447,1869,180,lotus leaf sticky rice,296,Chinese,Lotus Leaf Sticky Rice,6.0,7d4e1,lotus leaf sticky rice
+3644,hawaiian pizza,12311,4584,2982,165,hawaiian pizza,297,Italian,Hawaiian Pizza,9.0,7c5b9,hawaiian pizza
+3652,goan fish curry,38575,14675,3806,240,goan fish curry,298,Indian,Goan Fish Curry,11.5,2a9c5,goan fish curry
+3660,beef burrito,32309,10127,6962,316,beef burrito,299,Mexican,Beef Burrito,8.5,b4a8f,beef burrito
+3668,cheesy smash burger,27271,7237,4215,180,cheesy smash burger,300,Burgers,Cheesy Smash Burger,9.25,5c1f8,cheesy smash burger
+3676,ratatouille,24750,6843,3437,230,ratatouille,301,French,Ratatouille,11.0,2f3d7,ratatouille
+3684,bbq chicken pizza,38190,14945,8588,401,bbq chicken pizza,302,Italian,BBQ Chicken Pizza,8.5,3f7e4,bbq chicken pizza
+3692,spicy sausage pizza,8883,2234,1240,118,spicy sausage pizza,303,Italian,Spicy Sausage Pizza,9.25,6f5a0,spicy sausage pizza
+3700,steamed bbq pork buns,25411,6319,4260,300,steamed bbq pork buns,304,Chinese,Steamed BBQ Pork Buns,4.75,0e1f9,steamed bbq pork buns
+3708,orange juice,11857,3075,1630,123,orange juice,305,Beverage,Orange Juice,3.0,2b5d7,orange juice
+3716,beef street tacos (3 pcs),48536,12141,6759,369,beef street tacos (3 pcs),306,Mexican,Beef Street Tacos (3 pcs),7.5,e8b3c,beef street tacos (3 pcs)
+3724,tuna sashimi (5 pcs),29842,9489,6102,608,tuna sashimi (5 pcs),307,Japanese,Tuna Sashimi (5 pcs),9.0,8f2a6,tuna sashimi (5 pcs)
+3732,bbq bacon burger,7083,2291,1151,99,bbq bacon burger,308,Burgers,BBQ Bacon Burger,9.5,0c5d8,bbq bacon burger
+3740,avocado veggie burger,36675,11776,5174,316,avocado veggie burger,309,Burgers,Avocado Veggie Burger,8.5,4e2d1,avocado veggie burger
+3748,strawberries & cream crepe,2380,425,269,23,strawberries & cream crepe,310,French,Strawberries & Cream Crepe,6.5,e7a2f,strawberries & cream crepe
+3756,green detox smoothie,35325,8891,2894,124,green detox smoothie,311,Beverage,Green Detox Smoothie,6.0,5e7b2,green detox smoothie
+3764,chicken alfredo crepe,21703,7833,3647,228,chicken alfredo crepe,312,French,Chicken Alfredo Crepe,8.0,e7a2f,chicken alfredo crepe
+3772,chicken fajita burrito,24203,8144,5333,332,chicken fajita burrito,313,Mexican,Chicken Fajita Burrito,8.25,b4a8f,chicken fajita burrito
+3780,steamed jasmine rice,45035,14393,5750,382,steamed jasmine rice,314,Side,Steamed Jasmine Rice,2.25,1a3f7,steamed jasmine rice
+3788,cinnamon pizza bites,11928,4027,1213,108,cinnamon pizza bites,315,Dessert,Cinnamon Pizza Bites,4.0,4b1d7,cinnamon pizza bites
+3796,chorizo in red wine,25994,4199,2655,126,chorizo in red wine,316,Spanish,Chorizo in Red Wine,6.75,2a3e9,chorizo in red wine
+3804,asian sesame chicken salad,21927,8473,3987,206,asian sesame chicken salad,317,Healthy,Asian Sesame Chicken Salad,8.75,3b1c6,asian sesame chicken salad
+3812,pancit bihon guisado,25071,6152,3784,256,pancit bihon guisado,318,Filipino,Pancit Bihon Guisado,7.75,8f7c2,pancit bihon guisado
+3820,shrimp teriyaki bowl,32960,8319,3784,242,shrimp teriyaki bowl,319,Japanese,Shrimp Teriyaki Bowl,9.75,3d9c8,shrimp teriyaki bowl
+3828,shrimp po' boy sandwich,2311,898,459,24,shrimp po' boy sandwich,320,Seafood,Shrimp Po' Boy Sandwich,9.75,5f1d3,shrimp po' boy sandwich
+3836,peanut butter power smoothie,39705,13406,3893,256,peanut butter power smoothie,321,Beverage,Peanut Butter Power Smoothie,6.75,c9f0b,peanut butter power smoothie
+3844,tofu stir fry,43787,16921,6578,266,tofu stir fry,322,Vegetarian,Tofu Stir Fry,8.5,9a8c5,tofu stir fry
+3852,beef brisket plate,39577,7509,4704,321,beef brisket plate,323,BBQ,Beef Brisket Plate,12.0,2a1c4,beef brisket plate
+3861,vegetarian burrito bowl,22259,8713,5011,180,vegetarian burrito bowl,324,Mexican,Vegetarian Burrito Bowl,7.75,b4a8f,vegetarian burrito bowl
+3869,albóndigas (meatballs),24391,6990,3923,344,albóndigas (meatballs),325,Spanish,Albóndigas (Meatballs),6.5,5e0b4,albóndigas (meatballs)
+3878,spicy falafel pita,45562,17392,4604,440,spicy falafel pita,326,Mediterranean,Spicy Falafel Pita,7.75,d1e9b,spicy falafel pita
+3881,falafel wrap,2193,616,171,16,falafel wrap,34,Mediterranean,Falafel Wrap,7.5,d1e9b,falafel wrap
+3886,ahi tuna poke bowl,20168,3147,1693,159,ahi tuna poke bowl,327,Hawaiian,Ahi Tuna Poke Bowl,11.0,4a7c1,ahi tuna poke bowl
+3894,stuffed bell peppers,46720,12911,8773,803,stuffed bell peppers,328,Vegetarian,Stuffed Bell Peppers,8.25,5b3d8,stuffed bell peppers
+3902,2-piece fried chicken,42714,8428,4008,163,2-piece fried chicken,329,Fried Chicken,2-Piece Fried Chicken,6.5,0e1b3,2-piece fried chicken
+3910,lychee iced tea,6381,1396,866,76,lychee iced tea,330,Beverage,Lychee Iced Tea,3.0,d6e4a,lychee iced tea
+3918,crème brûlée,9000,1974,1374,130,crème brûlée,331,Dessert,Crème Brûlée,5.5,2f3d7,crème brûlée
+3926,spanish tortilla,30713,8167,3278,129,spanish tortilla,332,Spanish,Spanish Tortilla,5.5,5e0b4,spanish tortilla
+3934,patatas bravas,14768,3661,1870,164,patatas bravas,333,Spanish,Patatas Bravas,5.0,2a3e9,patatas bravas
+3942,chicken sandwich,44909,13013,4243,251,chicken sandwich,334,Fried Chicken,Chicken Sandwich,7.0,0e1b3,chicken sandwich
+3950,classic falafel plate,28016,10073,5600,450,classic falafel plate,335,Mediterranean,Classic Falafel Plate,8.25,6a9c1,classic falafel plate
+3958,meat lovers pizza,10215,4056,2669,94,meat lovers pizza,336,Italian,Meat Lovers Pizza,10.0,7c5b9,meat lovers pizza
+3966,vegetable dumplings (6),23577,4294,2458,202,vegetable dumplings (6),337,Chinese,Vegetable Dumplings (6),5.0,7f2c1,vegetable dumplings (6)
+3974,sesame peanut noodles,18739,3812,1005,66,sesame peanut noodles,338,Asian,Sesame Peanut Noodles,8.25,9b5a0,sesame peanut noodles
+3982,cornbread muffin,14375,5175,1819,121,cornbread muffin,339,Side,Cornbread Muffin,2.5,9d5f2,cornbread muffin
+3990,leche flan,6237,1793,1034,41,leche flan,340,Dessert,Leche Flan,3.75,8f7c2,leche flan
+3998,thai spring rolls,14986,3156,1206,47,thai spring rolls,341,Side,Thai Spring Rolls,3.5,7a8e0,thai spring rolls
+4006,falafel & eggplant sandwich,13045,2752,825,36,falafel & eggplant sandwich,342,Mediterranean,Falafel & Eggplant Sandwich,7.5,6a9c1,falafel & eggplant sandwich
+4014,spicy jalapeño dog,44332,15272,10121,808,spicy jalapeño dog,343,American,Spicy Jalapeño Dog,4.75,a4f0b,spicy jalapeño dog
+4022,fountain drink,3115,707,420,21,fountain drink,344,Beverage,Fountain Drink,2.25,6c3f2,fountain drink
+4030,tropical citrus blend,45531,10793,4220,197,tropical citrus blend,345,Beverage,Tropical Citrus Blend,6.25,c9f0b,tropical citrus blend
+4038,tofu teriyaki bowl,29254,11374,5061,244,tofu teriyaki bowl,346,Japanese,Tofu Teriyaki Bowl,8.25,7e2d8,tofu teriyaki bowl
+4046,lemon herb rice,9182,2228,1513,79,lemon herb rice,347,Side,Lemon Herb Rice,3.25,a6c9f,lemon herb rice
+4054,pico de gallo,1991,387,221,13,pico de gallo,348,Side,Pico de Gallo,2.0,7d3c1,pico de gallo
+4062,chocolate glazed donut,23921,4263,2875,196,chocolate glazed donut,349,Dessert,Chocolate Glazed Donut,2.0,e9a1c,chocolate glazed donut
+4070,beef teriyaki bowl,41489,11398,2952,112,beef teriyaki bowl,350,Japanese,Beef Teriyaki Bowl,9.25,7e2d8,beef teriyaki bowl
+4078,spinach & ricotta ravioli,5172,1191,530,20,spinach & ricotta ravioli,351,Italian,Spinach & Ricotta Ravioli,10.25,d4f0a,spinach & ricotta ravioli
+4086,whole grain roll,22747,6141,3867,251,whole grain roll,352,Side,Whole Grain Roll,1.5,9f6b0,whole grain roll
+4094,coleslaw,46442,13430,4359,410,coleslaw,353,Side,Coleslaw,2.5,2a1c4,coleslaw
+4094,coleslaw,46442,13430,4359,410,coleslaw,371,Side,Coleslaw,2.5,8a2c6,coleslaw
+4102,tom yum soup,5366,1012,490,25,tom yum soup,354,Thai,Tom Yum Soup,7.5,f1c7a,tom yum soup
+4110,salmon poke bowl,13089,3682,2458,108,salmon poke bowl,355,Hawaiian,Salmon Poke Bowl,10.5,f9e4c,salmon poke bowl
+4118,jasmine iced tea,19311,5086,3318,253,jasmine iced tea,356,Beverage,Jasmine Iced Tea,2.75,9b5a0,jasmine iced tea
+4126,cold brew coffee,47746,17806,11975,1027,cold brew coffee,357,Beverage,Cold Brew Coffee,3.0,e9a1c,cold brew coffee
+4134,peach cobbler waffle,21064,6582,3906,238,peach cobbler waffle,358,Breakfast,Peach Cobbler Waffle,7.75,5d9e3,peach cobbler waffle
+4142,beef vindaloo,32248,7672,4565,249,beef vindaloo,359,Indian,Beef Vindaloo,10.75,2a9c5,beef vindaloo
+4150,craft soda,952,150,64,2,craft soda,360,Beverage,Craft Soda,3.0,4e2d1,craft soda
+4158,tonkotsu ramen,14738,4328,2087,101,tonkotsu ramen,361,Japanese,Tonkotsu Ramen,10.25,4f0c5,tonkotsu ramen
+4166,grilled chicken burger,19003,3275,1017,97,grilled chicken burger,362,Burgers,Grilled Chicken Burger,8.0,5c1f8,grilled chicken burger
+4174,matcha latte,43663,7373,1917,75,matcha latte,363,Beverage,Matcha Latte,3.25,2f7b5,matcha latte
+4182,tuna poke with avocado,10739,1969,785,52,tuna poke with avocado,364,Hawaiian,Tuna Poke with Avocado,11.0,f9e4c,tuna poke with avocado
+4190,chimichurri flank steak,47279,11928,8237,390,chimichurri flank steak,365,Steak,Chimichurri Flank Steak,11.25,4c9a2,chimichurri flank steak
+4198,herbed chicken breast,48950,15531,4997,380,herbed chicken breast,366,Contemporary,Herbed Chicken Breast,12.5,4a3e6,herbed chicken breast
+4206,manchego cheese plate,4653,1841,804,46,manchego cheese plate,367,Spanish,Manchego Cheese Plate,7.0,5e0b4,manchego cheese plate
+4214,mint yogurt drink,18274,6177,2934,171,mint yogurt drink,368,Beverage,Mint Yogurt Drink,3.25,1a5f4,mint yogurt drink
+4222,bibimbap bowl,15751,4590,1388,96,bibimbap bowl,369,Korean,Bibimbap Bowl,10.0,2d7a9,bibimbap bowl
+4230,miso soup,21526,7446,3603,173,miso soup,125,Side,Miso Soup,2.5,b3e8f,miso soup
+4230,miso soup,21526,7446,3603,173,miso soup,370,Side,Miso Soup,2.25,7f4d2,miso soup
+4238,coleslaw,33258,6873,1785,125,coleslaw,353,Side,Coleslaw,2.5,2a1c4,coleslaw
+4238,coleslaw,33258,6873,1785,125,coleslaw,371,Side,Coleslaw,2.5,8a2c6,coleslaw
+4246,mango banana smoothie,8603,3145,1796,163,mango banana smoothie,372,Beverage,Mango Banana Smoothie,5.5,5e7b2,mango banana smoothie
+4254,bbq chicken wings,7474,1284,350,22,bbq chicken wings,373,BBQ,BBQ Chicken Wings,8.5,2a1c4,bbq chicken wings
+4262,elote (mexican street corn),21461,6551,2536,147,elote (mexican street corn),374,Side,Elote (Mexican Street Corn),3.5,e8b3c,elote (mexican street corn)
+4271,chicken teriyaki bowl,15757,3571,2487,234,chicken teriyaki bowl,375,Japanese,Chicken Teriyaki Bowl,8.75,7e2d8,chicken teriyaki bowl
+4279,seaweed salad,9942,3453,971,37,seaweed salad,227,Side,Seaweed Salad,3.0,8f2a6,seaweed salad
+4279,seaweed salad,9942,3453,971,37,seaweed salad,244,Side,Seaweed Salad,3.25,f9e4c,seaweed salad
+4279,seaweed salad,9942,3453,971,37,seaweed salad,376,Side,Seaweed Salad,3.0,2d7a9,seaweed salad
+4287,lamb gyro wrap,33046,7504,4323,301,lamb gyro wrap,377,Mediterranean,Lamb Gyro Wrap,8.5,8e9a0,lamb gyro wrap
+4295,pesto chicken pizza,2689,460,306,27,pesto chicken pizza,378,Italian,Pesto Chicken Pizza,9.75,6f5a0,pesto chicken pizza
+4309,grilled veggie wrap,33472,6601,4046,366,grilled veggie wrap,380,Vegetarian,Grilled Veggie Wrap,7.5,5b3d8,grilled veggie wrap
+4317,veggie lovers pizza,49857,16123,6232,404,veggie lovers pizza,381,Italian,Veggie Lovers Pizza,9.25,4b1d7,veggie lovers pizza
+4325,fettuccine alfredo,47752,13994,7783,345,fettuccine alfredo,382,Italian,Fettuccine Alfredo,10.0,d4f0a,fettuccine alfredo
+4333,3-bean veggie chili,31194,9811,4119,152,3-bean veggie chili,383,Tex-Mex,3-Bean Veggie Chili,6.25,9d5f2,3-bean veggie chili
+4341,vegan buddha bowl,38823,13518,5484,354,vegan buddha bowl,384,Vegetarian,Vegan Buddha Bowl,8.75,5b3d8,vegan buddha bowl
+4349,palak paneer,3723,562,185,11,palak paneer,385,Indian,Palak Paneer,9.25,6a0c3,palak paneer
+4357,vegan tofu pho,2624,655,164,10,vegan tofu pho,386,Vietnamese,Vegan Tofu Pho,8.75,1d4f2,vegan tofu pho
+4365,chicken biryani,45548,16113,4365,164,chicken biryani,387,Indian,Chicken Biryani,9.5,b9e8c,chicken biryani
+4373,crispy chicken strips,11458,2464,1213,43,crispy chicken strips,388,Fried Chicken,Crispy Chicken Strips,7.25,7c1a9,crispy chicken strips
+4381,mediterranean quinoa salad,37039,13483,3988,148,mediterranean quinoa salad,389,Healthy,Mediterranean Quinoa Salad,9.0,4d9f1,mediterranean quinoa salad
+4389,savory ham & cheese crepe,28830,4932,1317,113,savory ham & cheese crepe,390,French,Savory Ham & Cheese Crepe,7.5,0e7a4,savory ham & cheese crepe
+4397,loaded nachos,39857,12919,5869,262,loaded nachos,391,Mexican,Loaded Nachos,7.75,f3b8d,loaded nachos
+4405,grilled kofta skewers,44777,16728,4189,208,grilled kofta skewers,392,Mediterranean,Grilled Kofta Skewers,10.75,1f5b7,grilled kofta skewers
+4413,fresh lemon mint cooler,45878,15903,4450,303,fresh lemon mint cooler,393,Beverage,Fresh Lemon Mint Cooler,3.75,b0a4f,fresh lemon mint cooler
+4421,chicken tinga tacos,48270,12828,4112,267,chicken tinga tacos,394,Mexican,Chicken Tinga Tacos,7.25,e8b3c,chicken tinga tacos
+4429,loaded chili nachos,47090,18783,6848,484,loaded chili nachos,395,Tex-Mex,Loaded Chili Nachos,7.5,6d0f7,loaded chili nachos
+4437,house brewed coffee,24009,3663,1726,91,house brewed coffee,396,Beverage,House Brewed Coffee,2.5,e3b2d,house brewed coffee
+4445,crab mac & cheese,22191,5290,1623,78,crab mac & cheese,397,Seafood,Crab Mac & Cheese,11.25,5f1d3,crab mac & cheese
+4453,steak sandwich,25523,8086,2677,243,steak sandwich,398,Steak,Steak Sandwich,9.5,4c9a2,steak sandwich
+4461,black garlic ramen,31008,10114,3253,203,black garlic ramen,399,Japanese,Black Garlic Ramen,10.5,2f7b5,black garlic ramen
+4469,peppercorn sirloin,27024,9522,3739,233,peppercorn sirloin,400,Steak,Peppercorn Sirloin,15.25,a1b5e,peppercorn sirloin

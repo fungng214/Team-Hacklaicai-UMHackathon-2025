@@ -33,6 +33,10 @@ class MultilingualAdapter(LogicAdapter):
         else:
             translated_input = user_input
 
+        self.chatbot.logic.adapters = [
+        adapter for adapter in self.chatbot.logic.adapters
+        if not isinstance(adapter, MultilingualAdapter)
+    ]
         # Step 2: Get response in English
         response = self.chatbot.get_response(translated_input)
         response_text = str(response)
